@@ -1,1 +1,3 @@
 # Mission-to-Mars
+
+I have created a web app using Flask with data that has been scraped from four different websites using Python and stored in MongoDB. The web app includes the newest relevant space article, images of all four of the hemispheres, a table of Mars facts, and a trending image. To do this, I used BeautifulSoup and Splinter to scrape full-resolution images of Mars’s hemispheres and the titles of those images, store the scraped data on a Mongo database, use a web application to display the data, and alter the design of the web app to accommodate these images.
